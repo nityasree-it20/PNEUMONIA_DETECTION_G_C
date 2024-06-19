@@ -12,11 +12,10 @@ This project aims to detect pneumonia from chest X-ray images using deep learnin
     $ Models
     $ Dataset
     $ Installation
-    $ Usage
     $ Streamlit Web App
     $ Results
-    $ Contributing
-    $ License
+    $ Reference
+
 ## Introduction
 
 ### VGG16
